@@ -54,3 +54,6 @@ st.plotly_chart(fig2, use_container_width=True)
 
 st.subheader("Raw Data")
 st.dataframe(filtered_df)
+
+st.markdown("---")
+st.markdown("**Built by Deepika Kurra** | [LinkedIn](https://www.linkedin.com/in/deepika-kurra-573789323) | [GitHub](https://github.com/Deepika8500)")
